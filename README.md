@@ -1,7 +1,7 @@
 
 ### About
 
-Welcome to my GitHub profile. I am an spiring Software Engineer and current student at Codam Coding College. I have skills in, and am learning:
+Welcome to my GitHub profile. I am an aspiring Software Engineer and current student at Codam Coding College. I have skills in, and am learning:
 
 <br />
 
