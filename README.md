@@ -28,4 +28,4 @@ At the **University of Amsterdam**, I built a content recommendation and ranking
 
 [![Swift](https://skillicons.dev/icons?i=swift&theme=dark)](https://skillicons.dev)
 
-On iOS, I contributed features to the [ASN Bank app](https://apps.apple.com/nl/app/asn-bank/id1585770794?l=en-GB), including **Overzicht Aanpassen** and **Snel Saldo Verbergen**, and published personal apps like [Simple Clock](https://apps.apple.com/nl/app/simple-clock-widget/id6468964766?l=en-GB) to the App Store.
+On iOS, I contributed features to the [ASN Bank app](https://apps.apple.com/nl/app/asn-bank/id1585770794?l=en-GB), including **Overzicht Aanpassen** and **Snel Saldo Verbergen**, and published personal apps like [Simple Clock](https://apps.apple.com/nl/app/simple-clock-widget/id6468964766?l=en-GB) to the App Store. [TomTom Global Sutden Hackathon](https://github.com/QBeukelman/TomTom-Hackathon-2022) winner 2022.
